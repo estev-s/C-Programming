@@ -10,6 +10,7 @@ Thank you!
 
 
 
-**CLI-Calculator** - https://github.com/estevao-s-dev/CLI-Calculator
+**CLI-Calculator** - https://github.com/estev-s/CLI-Calculator
+
 
 
